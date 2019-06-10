@@ -29,4 +29,4 @@ Open-source app, designed by [HTML5 Up](https://html5up.net/big-picture) in JAMs
 ![HTML5 Up BigPicture](https://raw.githubusercontent.com/app-generator/static/master/html5up-big-picture/html5up-big-picture-coded-in-jamstack-sm.jpg)
 
 ---
-Provided by **AppSeed**
+**Happy Coding**
