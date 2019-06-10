@@ -1,32 +1,40 @@
 # Apps built with HTML5 Up design
-Index provided by **AppSeed**
+Index provided by [AppSeed](https://appseed.us/apps/bulma-css)
 
 ## Apps
 A curated list of apps built on top of HTML5 Up design. In case your app is not here, please submit a pull request
 
 <br />
 
-### [HTML5 Up Fractal](https://appseed.us/apps/jamstack/html5up-fractal)
+### [BulmaPlay](https://appseed.us/apps/bulma-css/bulmaplay)
 ---
-Open-source app, designed by [HTML5 Up](https://html5up.net/fractal) in JAMstack pattern.
+Open-source app built on top of Bulma CSS in JAMstack pattern
 
-![HTML5 Up Fractal](https://raw.githubusercontent.com/app-generator/static/master/html5up-fractal/html5up-fractal-coded-in-jamstack.jpg)
+![BulmaPlay](https://raw.githubusercontent.com/app-generator/static/master/bulmaplay/jamstack-bulmaplay-made-with-bulma-css-sm.jpg)
 
 <br />
 
-### [HTML5 Up Landed](https://appseed.us/apps/jamstack/html5up-landed)
+### [BulmaLanding](https://appseed.us/apps/bulma-css/bulmalanding)
+---
+Open-source app built on top of Bulma CSS in JAMstack pattern
+
+![BulmaLanding](https://raw.githubusercontent.com/app-generator/static/master/bulmalanding/jamstack-bulmalanding-made-with-bulma-css-sm.jpg)
+
+<br />
+
+### [Flask BulmaPlay](https://appseed.us/apps/flask-apps/bulmaplay-flask-and-bulma-css)
 ---
 Open-source app, designed by [HTML5 Up](https://html5up.net/landed) in JAMstack pattern.
 
-![HTML5 Up Landed](https://raw.githubusercontent.com/app-generator/static/master/html5up-landed/html5up-landed-coded-in-jamstack-sm.jpg)
+![Flask BulmaPlay](https://raw.githubusercontent.com/app-generator/static/master/flask-bulmaplay/flask-bulmaplay-made-with-bulma-css-sm.jpg)
 
 <br />
 
-### [HTML5 Up BigPicture](https://appseed.us/apps/jamstack/html5up-big-picture)
----
-Open-source app, designed by [HTML5 Up](https://html5up.net/big-picture) in JAMstack pattern.
-
-![HTML5 Up BigPicture](https://raw.githubusercontent.com/app-generator/static/master/html5up-big-picture/html5up-big-picture-coded-in-jamstack-sm.jpg)
-
----
-**Happy Coding**
+## Related Resources
+ - [Bulma CSS](https://bulma.io/) - the official website
+ - [Bulma Docs](https://bulma.io/documentation/) 
+ - [Apps built with Bulma](https://docs.appseed.us/apps/bulma-css/)
+ 
+ --- 
+ Happy Coding! 
+ 
