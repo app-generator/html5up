@@ -63,4 +63,4 @@ Open-source apps designed by [html5up](https://html5up.net).
 <br />
 
 --- 
-Apps with [html5up](https://appseed.us/apps/html5up) design provided by **AppSeed**
+Apps with [HTML5Up](https://appseed.us/apps/html5up) design provided by **AppSeed**
